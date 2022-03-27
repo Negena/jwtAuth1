@@ -1,0 +1,18 @@
+*{
+  margin: 0 ;
+  padding: 0 ;
+  box-sizing: border-box;
+}
+body{
+  background: rgba(27, 140, 116, 0.72);
+}
+.mr-1{
+  margin: 40px;
+}
+button {
+  width: 150px;
+  height: 70px;
+}
+.buttons {
+  margin: 5rem auto;
+}
